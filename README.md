@@ -2,6 +2,6 @@
 
 # Tensorflow_MNIST_98Acc
 
-This project was made using Tensorflow's Keras, Keras.dataset(mnist) and efficientnetb0. you can try the model [here](https://huggingface.co/spaces/bijankn/MNIST-with-Tensorflow).
+This project was made using Tensorflow's Keras, Keras.dataset(mnist) and Efficientnetb0. You can try the model [here](https://huggingface.co/spaces/bijankn/MNIST-with-Tensorflow).
 
 ![image](https://github.com/Bijan-K/Tensorflow-MNIST-98Acc/assets/80640045/a79fefb6-dbc0-4ca5-93d4-892bf5d63a27)
